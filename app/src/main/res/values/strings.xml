@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">SelfEmployment</string>
+    <string name="app_name">SelfLeveling</string>
 
 
 
@@ -61,12 +61,6 @@
     <string name="account_settings">Account Settings</string>
     <string name="my_interests">My Interests</string>
     <string name="saved_business">Saved Businesses</string>
-    <string name="share_app">Share the App</string>
-    <string name="rate_us">Rate us</string>
-    <string name="feedBack">Feedback</string>
-    <string name="about_us">About us</string>
-    <string name="terms_conditions">Terms &amp; Conditions</string>
-    <string name="privacy_policy">Privacy Policy</string>
     <string name="contact">Contact</string>
     <string name="share_profile">Share Profile</string>
     <string name="notification">Notification</string>
@@ -191,11 +185,6 @@
     <string name="reset_changes">Reset Changes</string>
     <string name="save_interests">Save Interests</string>
 
-    <string name="rate_us_1_star">Oh no! what didn/’t work</string>
-    <string name="rate_us_2_star">Not the best? Share why</string>
-    <string name="rate_us_3_star">Almost there!</string>
-    <string name="rate_us_4_star">We’re close to a 5!</string>
-    <string name="rate_us_5_star">So glad you loved it!</string>
 
     <string name="delete_account_alert_header">Are you sure you want to permanently delete your account?</string>
     <string name="delete_account_alert_sub_header">Your account will be deleted after 30 days. If you don/’t log in during this period, all your information will be permanently removed and cannot be recovered.</string>

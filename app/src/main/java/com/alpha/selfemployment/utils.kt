@@ -170,39 +170,9 @@ class utils {
                     R.drawable.savedbusiness
                 ),
                 MainSettingItems(
-                    3,
-                    R.string.share_app,
-                    R.drawable.shareapp
-                ),
-                MainSettingItems(
                     4,
                     R.string.app_language,
                     R.drawable.app_language_settings
-                ),
-                MainSettingItems(
-                    5,
-                    R.string.rate_us,
-                    R.drawable.rateus
-                ),
-                MainSettingItems(
-                    6,
-                    R.string.feedBack,
-                    R.drawable.feedback
-                ),
-                MainSettingItems(
-                    7,
-                     R.string.about_us,
-                    R.drawable.aboutus
-                ),
-                MainSettingItems(
-                    8,
-                    R.string.terms_conditions,
-                    R.drawable.termsandconsditions
-                ),
-                MainSettingItems(
-                    9,
-                    R.string.privacy_policy,
-                    R.drawable.privacypolicy
                 ),
             )
         )

@@ -92,8 +92,8 @@ import com.alpha.selfemployment.ui.theme.black1A
 import com.alpha.selfemployment.ui.theme.gray48
 import com.alpha.selfemployment.ui.theme.gray66
 import com.alpha.selfemployment.ui.theme.grayB8
-import com.alpha.selfemployment.ui.theme.green3A8
-import com.alpha.selfemployment.ui.theme.lightGreenEBF
+import com.alpha.selfemployment.ui.theme.brandBlue
+import com.alpha.selfemployment.ui.theme.lightBlueF0
 import com.alpha.selfemployment.ui.theme.primaryBlack
 import com.alpha.selfemployment.ui.theme.primaryWhite
 import com.alpha.selfemployment.ui.theme.redE54
@@ -356,11 +356,11 @@ fun ArticleUploadPreview(
                 item {
                     zText(
                         articleFields.category,
-                        green3A8,
+                        brandBlue,
                         12,
                         0,
                         modifier = Modifier
-                            .background(lightGreenEBF, RoundedCornerShape(4.dp))
+                            .background(lightBlueF0, RoundedCornerShape(4.dp))
                             .padding(horizontal = 8.dp, vertical = 4.dp)
                     )
 
@@ -402,7 +402,7 @@ fun ArticleUploadPreview(
                                         )
                                     }
                                     .clip(RoundedCornerShape(16.dp))
-                                    .background(lightGreenEBF),
+                                    .background(lightBlueF0),
                                 contentAlignment = Alignment.Center
                             ) {
                                 AsyncImage(

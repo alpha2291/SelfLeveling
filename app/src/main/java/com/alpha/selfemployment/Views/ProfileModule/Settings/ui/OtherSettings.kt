@@ -69,7 +69,7 @@ import com.alpha.selfemployment.toast
 import com.alpha.selfemployment.ui.theme.black1A
 import com.alpha.selfemployment.ui.theme.gray66
 import com.alpha.selfemployment.ui.theme.grayB8
-import com.alpha.selfemployment.ui.theme.green3A8
+import com.alpha.selfemployment.ui.theme.brandBlue
 import com.alpha.selfemployment.ui.theme.primaryBlack
 import com.alpha.selfemployment.ui.theme.primaryWhite
 import com.alpha.selfemployment.ui.theme.redE54
@@ -344,7 +344,7 @@ fun NotificationSettings(){
                     switch = !switch
                 },
                 colors = SwitchDefaults.colors(
-                    checkedTrackColor = green3A8,
+                    checkedTrackColor = brandBlue,
                 )
             )
         }
@@ -375,7 +375,7 @@ fun NotificationSettings(){
                                 onCheckedChange = {
                                     utils.toggleNotificationSubSettings(items.id)
                                 }, colors = CheckboxDefaults.colors(
-                                    checkedColor = green3A8,
+                                    checkedColor = brandBlue,
                                     checkmarkColor = primaryWhite,
                                     uncheckedColor = grayB8,
                                     disabledUncheckedColor = grayB8

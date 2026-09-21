@@ -57,7 +57,7 @@ import com.alpha.selfemployment.textUnit
 import com.alpha.selfemployment.ui.theme.black1A
 import com.alpha.selfemployment.ui.theme.gray48
 import com.alpha.selfemployment.ui.theme.gray66
-import com.alpha.selfemployment.ui.theme.lightGreenEBF
+import com.alpha.selfemployment.ui.theme.lightBlueF0
 import com.alpha.selfemployment.ui.theme.primaryBlack
 import com.alpha.selfemployment.ui.theme.primaryWhite
 import com.alpha.selfemployment.ui.theme.redE54
@@ -168,7 +168,7 @@ fun UploadYoutubeDetails(
                         modifier = Modifier
                             .fillMaxWidth(.7f)
                             .height(360.dp)
-                            .background(lightGreenEBF),
+                            .background(lightBlueF0),
                         contentAlignment = Alignment.Center
                     ) {
                         if (thumbnail != null) {

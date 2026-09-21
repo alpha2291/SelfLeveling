@@ -72,8 +72,8 @@ import com.alpha.selfemployment.textUnit
 import com.alpha.selfemployment.ui.theme.black1A
 import com.alpha.selfemployment.ui.theme.gray48
 import com.alpha.selfemployment.ui.theme.grayF5
-import com.alpha.selfemployment.ui.theme.green3A8
-import com.alpha.selfemployment.ui.theme.lightGreenEBF
+import com.alpha.selfemployment.ui.theme.brandBlue
+import com.alpha.selfemployment.ui.theme.lightBlueF0
 import com.alpha.selfemployment.ui.theme.primaryWhite
 import com.alpha.selfemployment.zText
 import kotlinx.coroutines.delay
@@ -211,9 +211,9 @@ fun ViewDetailsScreen() {
                 // item 0 — header
                 item {
                     zText(
-                        "Aquaculture", green3A8, 12, 0,
+                        "Aquaculture", brandBlue, 12, 0,
                         modifier = Modifier
-                            .background(lightGreenEBF)
+                            .background(lightBlueF0)
                             .padding(horizontal = 8.dp, vertical = 4.dp)
                     )
                     spacer(8)
@@ -507,14 +507,14 @@ fun FloatingActionBar(
                             Box(
                                 modifier = Modifier
                                     .size(10.dp)
-                                    .background(green3A8, CircleShape)
+                                    .background(brandBlue, CircleShape)
                             )
                         },
                         modifier = Modifier.weight(1f),
                         colors = SliderDefaults.colors(
-                            disabledThumbColor = green3A8,
-                            disabledActiveTrackColor = green3A8,
-                            disabledInactiveTrackColor = green3A8.copy(.25f)
+                            disabledThumbColor = brandBlue,
+                            disabledActiveTrackColor = brandBlue,
+                            disabledInactiveTrackColor = brandBlue.copy(.25f)
                         )
                     )
 
@@ -522,7 +522,7 @@ fun FloatingActionBar(
                         Row(
                             modifier = Modifier
                                 .clip(RoundedCornerShape(4.dp))
-                                //.background(green3A8.copy(.12f))
+                                //.background(brandBlue.copy(.12f))
                                 .padding(horizontal = 8.dp, vertical = 4.dp)
                                 .shrinkClick { expanded = true },
                             verticalAlignment = Alignment.CenterVertically
@@ -578,7 +578,7 @@ fun FloatingActionBar(
                     modifier = Modifier
                         .fillMaxHeight()
                         .weight(3f)
-                        .background(green3A8)
+                        .background(brandBlue)
                         .shrinkClick {
                             if (tts.isSpeaking) tts.pause() else tts.speak(fullText)
                         },
@@ -781,14 +781,14 @@ fun ViewDetailsScreen(
                         CircularProgressIndicator(
                             modifier = Modifier.size(20.dp),
                             strokeWidth = 2.dp,
-                            color = green3A8
+                            color = brandBlue
                         )
                     } else {
                         Image(
                             painter = painterResource(R.drawable.translate),
                             contentDescription = "Translate",
                             // Tint green when translated is active so user sees the toggle state
-                            colorFilter = if (isTranslated) ColorFilter.tint(green3A8) else null,
+                            colorFilter = if (isTranslated) ColorFilter.tint(brandBlue) else null,
                             modifier = Modifier.shrinkClick {
                                 if (isTranslated) {
                                     // ── Toggle back to original ───────────────
@@ -847,9 +847,9 @@ fun ViewDetailsScreen(
                 // item 0 — header
                 item {
                     zText(
-                        data?.post_property?.category ?: "", green3A8, 12, 0,
+                        data?.post_property?.category ?: "", brandBlue, 12, 0,
                         modifier = Modifier
-                            .background(lightGreenEBF)
+                            .background(lightBlueF0)
                             .padding(horizontal = 8.dp, vertical = 4.dp)
                     )
                     spacer(8)
@@ -1224,13 +1224,13 @@ fun FloatingActionBar(
                         valueRange = 0f..fullText.length.toFloat(),
                         enabled = false,
                         thumb = {
-                            Box(modifier = Modifier.size(10.dp).background(green3A8, CircleShape))
+                            Box(modifier = Modifier.size(10.dp).background(brandBlue, CircleShape))
                         },
                         modifier = Modifier.weight(1f),
                         colors = SliderDefaults.colors(
-                            disabledThumbColor = green3A8,
-                            disabledActiveTrackColor = green3A8,
-                            disabledInactiveTrackColor = green3A8.copy(.25f)
+                            disabledThumbColor = brandBlue,
+                            disabledActiveTrackColor = brandBlue,
+                            disabledInactiveTrackColor = brandBlue.copy(.25f)
                         )
                     )
                     Box {
@@ -1295,7 +1295,7 @@ fun FloatingActionBar(
                     modifier = Modifier
                         .fillMaxHeight()
                         .weight(3f)
-                        .background(green3A8)
+                        .background(brandBlue)
                         .shrinkClick {
                             if (tts.isSpeaking) tts.pause() else tts.speak(fullText)
                         },

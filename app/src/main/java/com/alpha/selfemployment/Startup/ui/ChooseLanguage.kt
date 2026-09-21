@@ -32,7 +32,7 @@ import com.alpha.selfemployment.navigation.LocalNavigator
 import com.alpha.selfemployment.navigation.Screen
 import com.alpha.selfemployment.shrinkClick
 import com.alpha.selfemployment.ui.theme.black1A
-import com.alpha.selfemployment.ui.theme.lightGreenEBF
+import com.alpha.selfemployment.ui.theme.lightBlueF0
 import com.alpha.selfemployment.ui.theme.primaryWhite
 import com.alpha.selfemployment.zText
 import org.koin.compose.koinInject
@@ -151,7 +151,7 @@ fun LanguageWheelPicker(
             modifier = Modifier
                 .height(itemHeight)
                 .fillMaxWidth()
-                .background(lightGreenEBF, RoundedCornerShape(8.dp))
+                .background(lightBlueF0, RoundedCornerShape(8.dp))
                 .border(
                     1.dp,
                     Color(0xFF2E7D32),

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">SelfEmployment</string>
+    <string name="app_name">SelfLeveling</string>
 
     <string name="mobile_number">मोबाइल नंबर</string>
     <string name="whatsapp_number">व्हाट्सएप नंबर</string>
@@ -55,12 +55,6 @@
     <string name="account_settings">खाता सेटिंग्स</string>
     <string name="my_interests">मेरी रुचियाँ</string>
     <string name="saved_business">सहेजे गए व्यवसाय</string>
-    <string name="share_app">ऐप शेयर करें</string>
-    <string name="rate_us">हमें रेट करें</string>
-    <string name="feedBack">प्रतिक्रिया</string>
-    <string name="about_us">हमारे बारे में</string>
-    <string name="terms_conditions">नियम और शर्तें</string>
-    <string name="privacy_policy">गोपनीयता नीति</string>
     <string name="contact">संपर्क</string>
     <string name="share_profile">प्रोफ़ाइल शेयर करें</string>
     <string name="notification">सूचना</string>
@@ -170,11 +164,6 @@
     <string name="reset_changes">बदलाव रीसेट करें</string>
     <string name="save_interests">रुचियां सहेजें</string>
 
-    <string name="rate_us_1_star">अरे नहीं! क्या काम नहीं किया</string>
-    <string name="rate_us_2_star">बेहतर नहीं? कारण बताएं</string>
-    <string name="rate_us_3_star">लगभग वहाँ पहुँच गए!</string>
-    <string name="rate_us_4_star">हम 5 के करीब हैं!</string>
-    <string name="rate_us_5_star">बहुत खुशी है कि आपको पसंद आया!</string>
 
     <string name="delete_account_alert_header">क्या आप वाकई अपना खाता स्थायी रूप से हटाना चाहते हैं?</string>
     <string name="delete_account_alert_sub_header">आपका खाता 30 दिनों के बाद हटा दिया जाएगा। यदि आप इस अवधि के दौरान लॉग इन नहीं करते हैं, तो आपकी सभी जानकारी स्थायी रूप से हटा दी जाएगी और पुनः प्राप्त नहीं की जा सकती।</string>

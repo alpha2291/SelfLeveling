@@ -4,8 +4,8 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.AnnotatedString
 import androidx.compose.ui.text.SpanStyle
 import androidx.compose.ui.text.buildAnnotatedString
-import com.alpha.selfemployment.ui.theme.green3A8
-import com.alpha.selfemployment.ui.theme.lightGreenEBF
+import com.alpha.selfemployment.ui.theme.brandBlue
+import com.alpha.selfemployment.ui.theme.lightBlueF0
 
 fun highlightedText(
     text: String,
@@ -20,8 +20,8 @@ fun highlightedText(
         if (start < end) {
             addStyle(
                 SpanStyle(
-                    background = lightGreenEBF,
-                    color = green3A8
+                    background = lightBlueF0,
+                    color = brandBlue
                 ),
                 start,
                 end

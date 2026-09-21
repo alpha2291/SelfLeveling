@@ -214,12 +214,6 @@ fun LocalizationPreviewScreen() {
                         R.string.notification,
                         R.string.allow_notification,
                         R.string.my_blocklist,
-                        R.string.share_app,
-                        R.string.rate_us,
-                        R.string.feedBack,
-                        R.string.about_us,
-                        R.string.privacy_policy,
-                        R.string.terms_conditions,
                         R.string.contact,
                     ).forEach { resId ->
                         Row(

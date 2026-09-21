@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">SelfEmployment</string>
+    <string name="app_name">SelfLeveling</string>
 
     <string name="mobile_number">మొబైల్ నంబర్</string>
     <string name="whatsapp_number">వాట్సాప్ నంబర్</string>
@@ -55,12 +55,6 @@
     <string name="account_settings">ఖాతా సెట్టింగ్‌లు</string>
     <string name="my_interests">నా ఆసక్తులు</string>
     <string name="saved_business">సేవ్ చేసిన వ్యాపారాలు</string>
-    <string name="share_app">యాప్ షేర్ చేయి</string>
-    <string name="rate_us">మాకు రేటింగ్ ఇవ్వండి</string>
-    <string name="feedBack">అభిప్రాయం</string>
-    <string name="about_us">మా గురించి</string>
-    <string name="terms_conditions">నిబంధనలు &amp; షరతులు</string>
-    <string name="privacy_policy">గోప్యతా విధానం</string>
     <string name="contact">సంప్రదించండి</string>
     <string name="share_profile">ప్రొఫైల్ షేర్ చేయి</string>
     <string name="notification">నోటిఫికేషన్</string>

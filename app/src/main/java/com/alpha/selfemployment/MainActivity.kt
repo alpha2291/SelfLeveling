@@ -38,7 +38,7 @@ import com.alpha.selfemployment.Views.ProfileModule.Settings.ui.Edit_Profile
 import com.alpha.selfemployment.navigation.AppNavigatorHost
 import com.alpha.selfemployment.navigation.LocalNavigator
 import com.alpha.selfemployment.navigation.Screen
-import com.alpha.selfemployment.ui.theme.SelfEmploymentTheme
+import com.alpha.selfemployment.ui.theme.SelfLevelingTheme
 import org.koin.compose.koinInject
 
 class MainActivity : ComponentActivity() {
@@ -50,7 +50,7 @@ class MainActivity : ComponentActivity() {
             setSystemUIVisibility(true,this)
 
 
-            SelfEmploymentTheme {
+            SelfLevelingTheme {
 
                 utils.activity = this
 

@@ -62,8 +62,8 @@ import com.alpha.selfemployment.toast
 import com.alpha.selfemployment.ui.theme.black1A
 import com.alpha.selfemployment.ui.theme.gray66
 import com.alpha.selfemployment.ui.theme.grayB8
-import com.alpha.selfemployment.ui.theme.green3A8
-import com.alpha.selfemployment.ui.theme.lightGreenEBF
+import com.alpha.selfemployment.ui.theme.brandBlue
+import com.alpha.selfemployment.ui.theme.lightBlueF0
 import com.alpha.selfemployment.ui.theme.primaryBlack
 import com.alpha.selfemployment.ui.theme.primaryWhite
 import com.alpha.selfemployment.ui.theme.redE54
@@ -113,7 +113,7 @@ fun CredentialScreen(
     Box(
         modifier = Modifier
             .fillMaxSize()
-            .background(green3A8)
+            .background(brandBlue)
     ) {
         Box(
             modifier = Modifier
@@ -297,7 +297,7 @@ fun Login(
                     append("Don't have an account? ")
                 }
 
-                withStyle(style = SpanStyle(color = green3A8, fontSize = textUnit(14), fontFamily = fontFamily(2))){
+                withStyle(style = SpanStyle(color = brandBlue, fontSize = textUnit(14), fontFamily = fontFamily(2))){
                     append("Register")
                 }
             }
@@ -431,7 +431,7 @@ fun Register(
                     append("Already have an Account? ")
                 }
 
-                withStyle(style = SpanStyle(color = green3A8, fontSize = textUnit(14), fontFamily = fontFamily(2))){
+                withStyle(style = SpanStyle(color = brandBlue, fontSize = textUnit(14), fontFamily = fontFamily(2))){
                     append("Login")
                 }
             }
@@ -544,13 +544,13 @@ fun Verify(
         Row (
             modifier = Modifier
                 .size(84.dp, 32.dp )
-                .background(lightGreenEBF)
+                .background(lightBlueF0)
             , verticalAlignment = Alignment.CenterVertically
             , horizontalArrangement = Arrangement.SpaceEvenly
         ){
             Icon(painter = painterResource(R.drawable.clock_timer) , "")
 
-            zText(timer.time.value , green3A8 , 14 ,1)
+            zText(timer.time.value , brandBlue , 14 ,1)
         }
 
         spacer(8)
@@ -561,7 +561,7 @@ fun Verify(
                     append("Didn’t receive ?")
                 }
 
-                withStyle(style = SpanStyle(color = if (timer.isFinished.value)green3A8 else green3A8.copy(.5f), fontSize = textUnit(14), fontFamily = fontFamily(2))){
+                withStyle(style = SpanStyle(color = if (timer.isFinished.value)brandBlue else brandBlue.copy(.5f), fontSize = textUnit(14), fontFamily = fontFamily(2))){
                     append("Resend")
                 }
             }

@@ -73,7 +73,7 @@ import com.alpha.selfemployment.textUnit
 import com.alpha.selfemployment.timeAgo
 import com.alpha.selfemployment.toast
 import com.alpha.selfemployment.ui.theme.gray48
-import com.alpha.selfemployment.ui.theme.green3A8
+import com.alpha.selfemployment.ui.theme.brandBlue
 import com.alpha.selfemployment.ui.theme.primaryBlack
 import com.alpha.selfemployment.ui.theme.primaryWhite
 import com.alpha.selfemployment.zText
@@ -470,7 +470,7 @@ private fun CommentsContent(
                                                 networkToast()
                                             }
                                         },
-                                    color = green3A8
+                                    color = brandBlue
                                 )
 
                             }
@@ -580,7 +580,7 @@ private fun CommentsContent(
                                         .shrinkClick {
                                             expandedComments.remove(comment.comment_id)
                                         },
-                                    color = green3A8
+                                    color = brandBlue
                                 )
                             }
                         }
@@ -645,7 +645,7 @@ private fun CommentItem(
                                 .fillMaxSize()
                                 .clip(CircleShape)
                                 .background(primaryWhite)
-                                .border(1.dp , green3A8 , CircleShape)
+                                .border(1.dp , brandBlue , CircleShape)
                             , contentAlignment = Alignment.Center
                         ){
                             Text(
@@ -668,7 +668,7 @@ private fun CommentItem(
                 , horizontalArrangement = Arrangement.Start
             ) {
                 if(comment.mention_username?.isNotEmpty() == true){
-                    zText("@${(comment.mention_username ?: "")}", green3A8, 16, 3)
+                    zText("@${(comment.mention_username ?: "")}", brandBlue, 16, 3)
                     spacer(2)
                 }
                 zText(comment.comment, primaryBlack, 16, 3)
@@ -805,7 +805,7 @@ private fun CommentItem(
 
                         spacer(2)
 
-                        zText("${comment.like_count}", green3A8, 16, 3)
+                        zText("${comment.like_count}", brandBlue, 16, 3)
                     }
 
                     spacer(6)
@@ -815,7 +815,7 @@ private fun CommentItem(
                         Text(
                             "Reply",
                             modifier = Modifier.shrinkClick { onReplyClick() },
-                            color = green3A8
+                            color = brandBlue
                         )
                     }
                 }
@@ -855,7 +855,7 @@ private fun CommentInputBar(
                 modifier = Modifier.padding(8.dp).fillMaxWidth(),
                 horizontalArrangement = Arrangement.SpaceBetween
             ) {
-                Text("@${state.mentionUserName}", color = green3A8)
+                Text("@${state.mentionUserName}", color = brandBlue)
 
                 Image(
                     painter = painterResource(R.drawable.close),

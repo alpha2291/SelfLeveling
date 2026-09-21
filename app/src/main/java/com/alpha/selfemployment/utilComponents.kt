@@ -128,8 +128,8 @@ import com.alpha.selfemployment.ui.theme.grayB8
 import com.alpha.selfemployment.ui.theme.grayE8
 import com.alpha.selfemployment.ui.theme.grayF4
 import com.alpha.selfemployment.ui.theme.grayFB
-import com.alpha.selfemployment.ui.theme.green3A8
-import com.alpha.selfemployment.ui.theme.lightGreenEBF
+import com.alpha.selfemployment.ui.theme.brandBlue
+import com.alpha.selfemployment.ui.theme.lightBlueF0
 import com.alpha.selfemployment.ui.theme.primaryBlack
 import com.alpha.selfemployment.ui.theme.primaryWhite
 import com.alpha.selfemployment.ui.theme.redE54
@@ -587,7 +587,7 @@ fun OTP_TF(
                                 if (isError) {
                                     Color.Red
                                 } else {
-                                    if (isFocused) green3A8 else if (char.isNotEmpty()) grayB8 else Color.LightGray
+                                    if (isFocused) brandBlue else if (char.isNotEmpty()) grayB8 else Color.LightGray
                                 }
                                 , shape = RoundedCornerShape(8.dp)
                             )
@@ -1338,7 +1338,7 @@ fun ReportBtmSheet(){
                         .fillMaxWidth()
                         .height(56.dp)
                         .clip(RoundedCornerShape(6.dp))
-                        .background(green3A8)
+                        .background(brandBlue)
                     , contentAlignment = Alignment.Center
                 ){
                     zText("Submit Report" , primaryWhite , 14 , 0)
@@ -2248,7 +2248,7 @@ fun ImagesCommonPreview(
                             )
                         }
                         .clip(RoundedCornerShape(16.dp))
-                        .background(lightGreenEBF)
+                        .background(lightBlueF0)
                 ) {
                     AsyncImage(
                         model = images[page],
@@ -2525,13 +2525,13 @@ fun NumberEmailChangeVerifyBtm(
                 Row (
                     modifier = Modifier
                         .size(84.dp, 32.dp )
-                        .background(lightGreenEBF)
+                        .background(lightBlueF0)
                     , verticalAlignment = Alignment.CenterVertically
                     , horizontalArrangement = Arrangement.SpaceEvenly
                 ){
                     Icon(painter = painterResource(R.drawable.clock_timer) , "")
 
-                    zText(timer.time.value , green3A8 , 14 ,1)
+                    zText(timer.time.value , brandBlue , 14 ,1)
                 }
 
                 spacer(8)
@@ -2542,7 +2542,7 @@ fun NumberEmailChangeVerifyBtm(
                             append("Didn’t receive ?")
                         }
 
-                        withStyle(style = SpanStyle(color = if (timer.isFinished.value)green3A8 else green3A8.copy(.5f), fontSize = textUnit(14), fontFamily = fontFamily(2))){
+                        withStyle(style = SpanStyle(color = if (timer.isFinished.value)brandBlue else brandBlue.copy(.5f), fontSize = textUnit(14), fontFamily = fontFamily(2))){
                             append("Resend")
                         }
                     }

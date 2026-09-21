@@ -49,7 +49,7 @@ import com.alpha.selfemployment.str
 import com.alpha.selfemployment.ui.theme.black1A
 import com.alpha.selfemployment.ui.theme.gray96
 import com.alpha.selfemployment.ui.theme.grayE8
-import com.alpha.selfemployment.ui.theme.green3A8
+import com.alpha.selfemployment.ui.theme.brandBlue
 import com.alpha.selfemployment.ui.theme.primaryWhite
 import com.alpha.selfemployment.zText
 import org.koin.androidx.compose.koinViewModel
@@ -220,7 +220,7 @@ fun  BlockListScreen(
 
                                     spacer(4)
 
-                                    zText("Unblock", green3A8, 12, 1)
+                                    zText("Unblock", brandBlue, 12, 1)
                                 }
                             }
                             , colors = ListItemDefaults.colors(

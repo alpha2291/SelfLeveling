@@ -52,7 +52,7 @@ import androidx.compose.material3.Text
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.text.style.TextAlign
 import com.alpha.selfemployment.ui.theme.black1A
-import com.alpha.selfemployment.ui.theme.lightGreenEBF
+import com.alpha.selfemployment.ui.theme.lightBlueF0
 import kotlinx.coroutines.flow.collectLatest
 
 
@@ -376,7 +376,7 @@ fun GlobalSnackbarHost(
                     contentColor = Color.Black, // 👈 set text/icon
                     modifier = Modifier
                         .padding(8.dp)
-                        .border(1.dp, lightGreenEBF, shape = RoundedCornerShape(4.dp)),
+                        .border(1.dp, lightBlueF0, shape = RoundedCornerShape(4.dp)),
                     shape = RoundedCornerShape(4.dp)
                 ) {
                     Text(text = data.visuals.message

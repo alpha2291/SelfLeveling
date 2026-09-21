@@ -69,7 +69,7 @@ import com.alpha.selfemployment.shrinkClick
 import com.alpha.selfemployment.spacer
 import com.alpha.selfemployment.ui.theme.black1A
 import com.alpha.selfemployment.ui.theme.grayB8
-import com.alpha.selfemployment.ui.theme.green3A8
+import com.alpha.selfemployment.ui.theme.brandBlue
 import com.alpha.selfemployment.ui.theme.primaryBlack
 import com.alpha.selfemployment.ui.theme.primaryWhite
 import com.alpha.selfemployment.zText
@@ -190,7 +190,7 @@ fun OthersProfile(
                                 .fillMaxWidth()
                                 .padding(bottom = FF_CARD_OVERLAP)
                                 .clip(RoundedCornerShape(bottomStart = 36.dp, bottomEnd = 36.dp))
-                                .background(green3A8)
+                                .background(brandBlue)
                                 .padding(top = rememberNotchHeightDp().value)
                         ) {
                             Box {

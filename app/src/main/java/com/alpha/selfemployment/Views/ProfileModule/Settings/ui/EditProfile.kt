@@ -59,7 +59,7 @@ import com.alpha.selfemployment.ui.theme.black1A
 import com.alpha.selfemployment.ui.theme.gray48
 import com.alpha.selfemployment.ui.theme.gray66
 import com.alpha.selfemployment.ui.theme.grayB8
-import com.alpha.selfemployment.ui.theme.lightGreenEBF
+import com.alpha.selfemployment.ui.theme.lightBlueF0
 import com.alpha.selfemployment.ui.theme.primaryBlack
 import com.alpha.selfemployment.ui.theme.primaryWhite
 import com.alpha.selfemployment.zText
@@ -313,7 +313,7 @@ fun Edit_Profile_Image(
                 modifier = Modifier
                     .size(94.dp)
                     .clip(CircleShape)
-                    .background(lightGreenEBF)
+                    .background(lightBlueF0)
                 , contentAlignment = Alignment.Center
             ){
                 //if (profileUpload.progress in 1..99) {

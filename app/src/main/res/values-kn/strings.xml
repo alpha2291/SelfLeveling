@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">SelfEmployment</string>
+    <string name="app_name">SelfLeveling</string>
 
     <string name="mobile_number">ಮೊಬೈಲ್ ಸಂಖ್ಯೆ</string>
     <string name="whatsapp_number">ವಾಟ್ಸ್‌ಆಪ್ ಸಂಖ್ಯೆ</string>
@@ -55,12 +55,6 @@
     <string name="account_settings">ಖಾತೆ ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
     <string name="my_interests">ನನ್ನ ಆಸಕ್ತಿಗಳು</string>
     <string name="saved_business">ಉಳಿಸಿದ ವ್ಯವಹಾರಗಳು</string>
-    <string name="share_app">ಆಪ್ ಹಂಚಿಕೊಳ್ಳಿ</string>
-    <string name="rate_us">ನಮಗೆ ರೇಟಿಂಗ್ ನೀಡಿ</string>
-    <string name="feedBack">ಪ್ರತಿಕ್ರಿಯೆ</string>
-    <string name="about_us">ನಮ್ಮ ಬಗ್ಗೆ</string>
-    <string name="terms_conditions">ನಿಯಮಗಳು &amp; ಷರತ್ತುಗಳು</string>
-    <string name="privacy_policy">ಗೌಪ್ಯತಾ ನೀತಿ</string>
     <string name="contact">ಸಂಪರ್ಕಿಸಿ</string>
     <string name="share_profile">ಪ್ರೊಫೈಲ್ ಹಂಚಿಕೊಳ್ಳಿ</string>
     <string name="notification">ಅಧಿಸೂಚನೆ</string>

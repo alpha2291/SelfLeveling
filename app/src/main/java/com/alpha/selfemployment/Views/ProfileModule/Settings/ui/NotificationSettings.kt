@@ -47,7 +47,7 @@ import com.alpha.selfemployment.shrinkClick
 import com.alpha.selfemployment.ui.theme.black1A
 import com.alpha.selfemployment.ui.theme.gray48
 import com.alpha.selfemployment.ui.theme.gray66
-import com.alpha.selfemployment.ui.theme.green3A8
+import com.alpha.selfemployment.ui.theme.brandBlue
 import com.alpha.selfemployment.ui.theme.primaryWhite
 import com.alpha.selfemployment.zText
 
@@ -430,7 +430,7 @@ fun NotificationOptionSavePrefs(
                 .background(
                     when {
                         isSaving -> gray48
-                        isDirty -> green3A8
+                        isDirty -> brandBlue
                         else -> gray66
                     }
                 )
@@ -451,7 +451,7 @@ fun NotificationOptionSavePrefs(
         ) {
             if (isSaving) {
                 CircularProgressIndicator(
-                    color = green3A8,
+                    color = brandBlue,
                     modifier = Modifier.size(24.dp)
                 )
             } else {

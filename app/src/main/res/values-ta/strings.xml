@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">SelfEmployment</string>
+    <string name="app_name">SelfLeveling</string>
 
     <string name="mobile_number">மொபைல் எண்</string>
     <string name="whatsapp_number">வாட்ஸ்அப் எண்</string>
@@ -53,12 +53,6 @@
     <string name="account_settings">கணக்கு அமைப்புகள்</string>
     <string name="my_interests">என் ஆர்வங்கள்</string>
     <string name="saved_business">சேமித்த வணிகங்கள்</string>
-    <string name="share_app">செயலியை பகிர்</string>
-    <string name="rate_us">எங்களை மதிப்பிடு</string>
-    <string name="feedBack">கருத்து</string>
-    <string name="about_us">எங்களைப் பற்றி</string>
-    <string name="terms_conditions">விதிமுறைகள் &amp; நிபந்தனைகள்</string>
-    <string name="privacy_policy">தனியுரிமைக் கொள்கை</string>
     <string name="contact">தொடர்பு</string>
     <string name="share_profile">சுயவிவரத்தை பகிர்</string>
     <string name="notification">அறிவிப்பு</string>
@@ -168,11 +162,6 @@
     <string name="reset_changes">மாற்றங்களை மீட்டமை</string>
     <string name="save_interests">ஆர்வங்களை சேமி</string>
 
-    <string name="rate_us_1_star">அரே! என்ன வேலை செய்யவில்லை</string>
-    <string name="rate_us_2_star">சிறப்பாக இல்லையா? ஏன் என்று சொல்லுங்கள்</string>
-    <string name="rate_us_3_star">கிட்டத்தட்ட வந்துவிட்டோம்!</string>
-    <string name="rate_us_4_star">நாம் 5-க்கு அருகில் இருக்கிறோம்!</string>
-    <string name="rate_us_5_star">நீங்கள் விரும்பியதில் மகிழ்ச்சி!</string>
 
     <string name="delete_account_alert_header">உங்கள் கணக்கை நிரந்தரமாக நீக்க விரும்புகிறீர்களா?</string>
     <string name="delete_account_alert_sub_header">உங்கள் கணக்கு 30 நாட்களுக்குப் பிறகு நீக்கப்படும். இந்த காலகட்டத்தில் நீங்கள் உள்நுழையவில்லை என்றால், உங்கள் அனைத்து தகவல்களும் நிரந்தரமாக அகற்றப்படும் மற்றும் மீட்டெடுக்க முடியாது.</string>
