@@ -1,0 +1,282 @@
+<resources>
+    <string name="app_name">SelfEmployment</string>
+
+    <string name="mobile_number">मोबाइल नंबर</string>
+    <string name="whatsapp_number">व्हाट्सएप नंबर</string>
+    <string name="email_id">ईमेल आईडी</string>
+    <string name="name">नाम</string>
+    <string name="remove">हटाएं</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="change">बदलें</string>
+    <string name="unblock">अनब्लॉक करें</string>
+    <string name="username">उपयोगकर्ता नाम</string>
+    <string name="add_bio">बायो जोड़ें</string>
+    <string name="save_changes">बदलाव सहेजें</string>
+    <string name="same_as_mobile_number">मोबाइल नंबर के समान</string>
+    <string name="enter_mobile_number">मोबाइल नंबर दर्ज करें</string>
+    <string name="enter_email_id">ईमेल पता दर्ज करें</string>
+    <string name="likes">लाइक्स</string>
+    <string name="comments">टिप्पणियाँ</string>
+
+    <string name="login">लॉगिन</string>
+    <string name="login_description">वापस स्वागत है! हमें खुशी है कि आप यहाँ हैं।</string>
+    <string name="login_to_register_switch">खाता नहीं है?</string>
+
+    <string name="register">रजिस्टर करें</string>
+    <string name="register_description">अभी रजिस्टर करके अपनी यात्रा शुरू करें। खाता बनाने के लिए अपनी जानकारी भरें।</string>
+    <string name="register_to_login_switch">पहले से खाता है?</string>
+
+    <string name="verification">सत्यापन</string>
+    <string name="verify">सत्यापित करें</string>
+    <string name="verification_description">अभी रजिस्टर करके अपनी यात्रा शुरू करें। खाता बनाने के लिए अपनी जानकारी भरें।</string>
+    <string name="otp_notReceived">प्राप्त नहीं हुआ? </string>
+    <string name="resend">पुनः भेजें </string>
+    <string name="otp_error">कृपया वैध OTP दर्ज करें </string>
+
+    <string name="choose_location">भाषा चुनें</string>
+    <string name="search_language">भाषा खोजें</string>
+    <string name="get_Started">शुरू करें</string>
+
+    <string name="explore">एक्सप्लोर</string>
+    <string name="upload">अपलोड</string>
+    <string name="profile">प्रोफ़ाइल</string>
+
+    <string name="edit_Profile">प्रोफ़ाइल संपादित करें</string>
+    <string name="videos">वीडियो</string>
+    <string name="followers">फ़ॉलोअर्स</string>
+    <string name="following">फ़ॉलोइंग</string>
+    <string name="search_profiles">प्रोफ़ाइल खोजें</string>
+    <string name="unfollow">अनफ़ॉलो करें</string>
+    <string name="follow_back">वापस फ़ॉलो करें</string>
+    <string name="remove_from_followers">हटाने पर यह व्यक्ति आपकी फ़ॉलोअर सूची से हट जाएगा।</string>
+    <string name="unfollow_alert_content">अनफ़ॉलो करने पर आप इस खाते के अपडेट नहीं देख पाएंगे। आप कभी भी वापस फ़ॉलो कर सकते हैं।</string>
+
+    <string name="settings">सेटिंग्स</string>
+    <string name="account_settings">खाता सेटिंग्स</string>
+    <string name="my_interests">मेरी रुचियाँ</string>
+    <string name="saved_business">सहेजे गए व्यवसाय</string>
+    <string name="share_app">ऐप शेयर करें</string>
+    <string name="rate_us">हमें रेट करें</string>
+    <string name="feedBack">प्रतिक्रिया</string>
+    <string name="about_us">हमारे बारे में</string>
+    <string name="terms_conditions">नियम और शर्तें</string>
+    <string name="privacy_policy">गोपनीयता नीति</string>
+    <string name="contact">संपर्क</string>
+    <string name="share_profile">प्रोफ़ाइल शेयर करें</string>
+    <string name="notification">सूचना</string>
+    <string name="my_blocklist">मेरी ब्लॉक सूची</string>
+    <string name="delete_account">खाता हटाएं</string>
+    <string name="logout">लॉगआउट</string>
+
+    <string name="allow_notification">सूचना की अनुमति दें</string>
+    <string name="new_video_posts">नई वीडियो पोस्ट</string>
+
+    <string name="unblock_alert_content">अनब्लॉक करने के बाद, आपकी पोस्ट उन्हें दिखाई देंगी। क्या आप सुनिश्चित हैं?</string>
+    <string name="logout_alert_content">आप लॉगआउट करने वाले हैं। आप कभी भी वापस आ सकते हैं। जल्द वापस आएं!</string>
+    <string name="type_your_bio">अपना बायो लिखें...</string>
+    <string name="username_change_error">आप उपयोगकर्ता नाम केवल 30 दिनों में एक बार बदल सकते हैं</string>
+    <string name="account_deletion_title_description">खाता हटाना एक स्थायी क्रिया है</string>
+    <string name="account_deletion_option_description">कृपया खाता हटाने का मुख्य कारण चुनें</string>
+
+
+
+    <!-- Phase 2 -->
+
+    <string name="business">व्यवसाय</string>
+    <string name="search_business">व्यवसाय खोजें..</string>
+    <string name="recent_search">हाल की खोज</string>
+    <string name="popular_videos">लोकप्रिय वीडियो</string>
+    <string name="related_videos">संबंधित वीडियो</string>
+    <string name="all_categories">सभी श्रेणियाँ</string>
+    <string name="share_video">वीडियो शेयर करें</string>
+    <string name="not_interested">रुचि नहीं</string>
+    <string name="report">रिपोर्ट करें</string>
+    <string name="why_are_you_reporting">आप रिपोर्ट क्यों कर रहे हैं?</string>
+    <string name="inappropriate_content">अनुचित सामग्री</string>
+    <string name="spam_irrelevant_content">स्पैम या अप्रासंगिक सामग्री</string>
+    <string name="copyright_infringement">कॉपीराइट उल्लंघन</string>
+    <string name="technical_issues">तकनीकी समस्याएं या बग</string>
+    <string name="privacy_violation">गोपनीयता उल्लंघन</string>
+    <string name="cultural_insensitivity">सांस्कृतिक असंवेदनशीलता</string>
+    <string name="something_else">कुछ और</string>
+    <string name="submit_report">रिपोर्ट सबमिट करें</string>
+
+
+    <!-- Phase 3 -->
+
+    <string name="articles">लेख</string>
+    <string name="messages">संदेश</string>
+
+    <string name="translate">अनुवाद करें</string>
+    <string name="show_translation">अनुवाद दिखाएं</string>
+    <string name="view_business_details">व्यवसाय विवरण देखें</string>
+
+    <string name="save">सहेजें</string>
+    <string name="audio">ऑडियो</string>
+
+    <string name="next">अगला</string>
+
+    <string name="upload_proof">प्रमाण अपलोड करें</string>
+    <string name="optional">वैकल्पिक</string>
+    <string name="click_to_upload">अपलोड करने के लिए क्लिक करें</string>
+
+    <string name="preview">पूर्वावलोकन</string>
+
+    <string name="search_results">खोज परिणाम</string>
+    <string name="clear_all">सभी साफ़ करें</string>
+
+    <string name="most_popular">सबसे लोकप्रिय</string>
+
+    <string name="type_comment_here">यहाँ टिप्पणी लिखें ...</string>
+    <string name="reply">जवाब दें</string>
+
+    <string name="block">ब्लॉक करें</string>
+
+    <string name="upload_video">वीडियो अपलोड करें</string>
+    <string name="category">श्रेणी</string>
+    <string name="language">भाषा</string>
+    <string name="language_sub_header">दर्शकों को आपकी सामग्री समझने और खोजने में मदद करने के लिए अपने वीडियो में बोली जाने वाली भाषा चुनें।</string>
+    <string name="title">शीर्षक</string>
+    <string name="short_description">संक्षिप्त विवरण</string>
+    <string name="long_description">विस्तृत विवरण</string>
+    <string name="specific_category">विशेष श्रेणी</string>
+
+    <string name="post_now">अभी पोस्ट करें</string>
+    <string name="exit_loading_alert_heading">क्या आप वाकई अपलोडिंग से बाहर निकलना चाहते हैं?</string>
+    <string name="exit_loading_alert_sub_heading">यदि आप अभी छोड़ते हैं, तो आपका अपलोड रद्द हो जाएगा और दर्ज किए गए सभी विवरण खो जाएंगे।</string>
+    <string name="keep_uploading">अपलोड जारी रखें</string>
+    <string name="exit">बाहर निकलें</string>
+
+    <string name="edit">संपादित करें</string>
+    <string name="delete_post">पोस्ट हटाएं</string>
+
+    <string name="update_changes">बदलाव अपडेट करें</string>
+
+    <string name="upload_images">फ़ोटो अपलोड करें</string>
+
+    <string name="leave_without_saving_alert_header">बिना सहेजे छोड़ें?</string>
+    <string name="leave_without_saving_alert_sub_header">आपके बदलाव सहेजे नहीं गए हैं। यदि आप अभी छोड़ते हैं, तो वे खो जाएंगे।</string>
+
+    <string name="skip">छोड़ें</string>
+    <string name="discard_changes">बदलाव रद्द करें</string>
+
+    <string name="delete_post_alert_header">क्या आप वाकई इस पोस्ट को हटाना चाहते हैं?</string>
+    <string name="delete_post_alert_sub_header">यह क्रिया वीडियो को स्थायी रूप से हटा देगी। आप इसे पुनः प्राप्त नहीं कर पाएंगे।</string>
+
+    <string name="characters">अक्षर</string>
+
+    <string name="number_change_verify_header">कृपया अपने दर्ज किए गए मोबाइल नंबर पर भेजा गया OTP दर्ज करें</string>
+
+    <string name="reset_changes">बदलाव रीसेट करें</string>
+    <string name="save_interests">रुचियां सहेजें</string>
+
+    <string name="rate_us_1_star">अरे नहीं! क्या काम नहीं किया</string>
+    <string name="rate_us_2_star">बेहतर नहीं? कारण बताएं</string>
+    <string name="rate_us_3_star">लगभग वहाँ पहुँच गए!</string>
+    <string name="rate_us_4_star">हम 5 के करीब हैं!</string>
+    <string name="rate_us_5_star">बहुत खुशी है कि आपको पसंद आया!</string>
+
+    <string name="delete_account_alert_header">क्या आप वाकई अपना खाता स्थायी रूप से हटाना चाहते हैं?</string>
+    <string name="delete_account_alert_sub_header">आपका खाता 30 दिनों के बाद हटा दिया जाएगा। यदि आप इस अवधि के दौरान लॉग इन नहीं करते हैं, तो आपकी सभी जानकारी स्थायी रूप से हटा दी जाएगी और पुनः प्राप्त नहीं की जा सकती।</string>
+    <string name="delete_account_confirm_checkbox_header">हाँ, मैं अपना खाता स्थायी रूप से हटाना चाहता/चाहती हूँ</string>
+
+    <string name="all">सभी</string>
+
+    <string name="today">आज</string>
+    <string name="yesterday">कल</string>
+    <string name="other_days">अन्य दिन</string>
+
+    <string name="account_appeal">खाता प्रतिबंधित</string>
+    <string name="account_appeal_button">अपील करें</string>
+    <string name="account_appeal_header">आपके खाते की हमारे सामुदायिक मानकों का उल्लंघन करने के लिए कई बार रिपोर्ट की गई है। आपका खाता अस्थायी रूप से प्रतिबंधित कर दिया गया है। यदि आपको लगता है कि यह गलती से हुआ है तो आप इस निर्णय के खिलाफ अपील कर सकते हैं।</string>
+
+    <string name="report_comment">टिप्पणी रिपोर्ट करें</string>
+
+    <string name="chat_empty_header">चैट एकदम नई है!</string>
+    <string name="chat_empty_sub_header">कभी भी नई बातचीत शुरू करें!</string>
+    <string name="clear_chat">चैट साफ़ करें</string>
+    <string name="delete_for_me">मेरे लिए हटाएं</string>
+    <string name="delete_for_everyone">सभी के लिए हटाएं</string>
+    <string name="received">प्राप्त</string>
+    <string name="sent">भेजा गया</string>
+    <string name="view_message">संदेश देखें</string>
+
+    <string name="view_more">और देखें</string>
+    <string name="view_less">कम देखें</string>
+
+    <string name="home">होम</string>
+
+    <string name="app_language">ऐप भाषा</string>
+
+    <string name="share">शेयर करें</string>
+
+    <string name="enter_name">नाम दर्ज करें</string>
+
+
+    <string name="youtube_video">यूट्यूब वीडियो</string>
+
+
+    <string name="add_youtube_link">यूट्यूब लिंक जोड़ें</string>
+    <string name="upload_youtube_video">यूट्यूब वीडियो अपलोड करें</string>
+
+    <string name="enter_bio">बायो दर्ज करें</string>
+    <string name="follow">फ़ॉलो करें</string>
+    <string name="submit">सबमिट करें</string>
+    <string name="re_trim">फिर से ट्रिम करें</string>
+    <string name="what_else_to_know">और क्या जानना चाहते हैं...</string>
+    <string name="follows">फ़ॉलो</string>
+
+    <string name="give_a_title">एक शीर्षक दें।</string>
+    <string name="start_typing_here">यहाँ टाइप करना शुरू करें</string>
+
+    <string name="select_language">भाषा चुनें</string>
+    <string name="select_category">श्रेणी चुनें</string>
+
+    <!-- Phase 4 -->
+
+
+    <string name="number_changes_successfully">नंबर सफलतापूर्वक बदल दिया गया</string>
+
+    <string name="noInternet">अरे! लगता है आप ऑफलाइन हैं।</string>
+
+
+    <string name="user_unfollowed_successfully">उपयोगकर्ता को अनफ़ॉलो कर दिया गया</string>
+
+
+    <string name="username_updated_successfully">उपयोगकर्ता नाम सफलतापूर्वक अपडेट किया गया</string>
+
+    <string name="apiError">क्षमा करें! कुछ गलत हो गया।</string>
+
+
+    <string name="preferences_saved_successfully">प्राथमिकताएं सफलतापूर्वक सहेजी गईं</string>
+
+    <string name="no_changes_to_save">सहेजने के लिए कोई बदलाव नहीं</string>
+
+
+    <string name="waiting_for_link">आपके लिंक का इंतज़ार है...</string>
+
+
+    <string name="paste_youtube_link">यूट्यूब लिंक पेस्ट करें</string>
+
+    <string name="images">छवियाँ</string>
+
+
+    <string name="enter_your_category">अपनी श्रेणी दर्ज करें</string>
+
+
+
+    <!-- Phase 5 -->
+
+    <string name="comment_deleted_successfully">टिप्पणी सफलतापूर्वक हटा दी गई</string>
+
+    <string name="already_reported">पहले से रिपोर्ट किया गया</string>
+
+
+    <string name="no_comments_yet">अभी तक कोई टिप्पणी नहीं</string>
+
+    <string name="be_first_to_comment_order">इस ऑर्डर पर अपनी टिप्पणी साझा करने वाले पहले व्यक्ति बनें।</string>
+
+
+
+
+</resources>

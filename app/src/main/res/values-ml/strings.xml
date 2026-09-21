@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">SelfEmployment</string>
+
+    <string name="mobile_number">മൊബൈൽ നമ്പർ</string>
+    <string name="whatsapp_number">വാട്ട്സ്ആപ്പ് നമ്പർ</string>
+    <string name="email_id">ഇമെയിൽ ID</string>
+    <string name="name">പേര്</string>
+    <string name="remove">നീക്കം ചെയ്യുക</string>
+    <string name="cancel">റദ്ദാക്കുക</string>
+    <string name="change">മാറ്റുക</string>
+    <string name="unblock">അൺബ്ലോക്ക് ചെയ്യുക</string>
+    <string name="username">ഉപയോക്തൃ നാമം</string>
+    <string name="add_bio">ബയോ ചേർക്കുക</string>
+    <string name="save_changes">മാറ്റങ്ങൾ സേവ് ചെയ്യുക</string>
+    <string name="same_as_mobile_number">മൊബൈൽ നമ്പർ പോലെ</string>
+    <string name="enter_mobile_number">മൊബൈൽ നമ്പർ നൽകുക</string>
+    <string name="enter_email_id">ഇമെയിൽ വിലാസം നൽകുക</string>
+    <string name="likes">ലൈക്കുകൾ</string>
+    <string name="comments">അഭിപ്രായങ്ങൾ</string>
+
+    <string name="login">ലോഗിൻ</string>
+    <string name="login_description">തിരിച്ചു സ്വാഗതം! നിങ്ങൾ ഇവിടെ ഉള്ളതിൽ സന്തോഷം.</string>
+    <string name="login_to_register_switch">അക്കൗണ്ട് ഇല്ലേ?</string>
+
+    <string name="register">രജിസ്റ്റർ ചെയ്യുക</string>
+    <string name="register_description">ഇപ്പോൾ രജിസ്റ്റർ ചെയ്ത് നിങ്ങളുടെ യാത്ര ആരംഭിക്കുക. അക്കൗണ്ട് ഉണ്ടാക്കാൻ വിവരങ്ങൾ നൽകുക.</string>
+    <string name="register_to_login_switch">ഇതിനകം അക്കൗണ്ട് ഉണ്ടോ?</string>
+
+    <string name="verification">സ്ഥിരീകരണം</string>
+    <string name="verify">സ്ഥിരീകരിക്കുക</string>
+    <string name="verification_description">ഇപ്പോൾ രജിസ്റ്റർ ചെയ്ത് നിങ്ങളുടെ യാത്ര ആരംഭിക്കുക.</string>
+    <string name="otp_notReceived">ലഭിച്ചില്ലേ? </string>
+    <string name="resend">വീണ്ടും അയയ്ക്കുക </string>
+    <string name="otp_error">ദയവായി സാധുവായ OTP നൽകുക </string>
+
+    <string name="choose_location">ഭാഷ തിരഞ്ഞെടുക്കുക</string>
+    <string name="search_language">ഭാഷ തിരയുക</string>
+    <string name="get_Started">ആരംഭിക്കുക</string>
+
+    <string name="explore">പര്യവേക്ഷണം</string>
+    <string name="upload">അപ്‌ലോഡ്</string>
+    <string name="profile">പ്രൊഫൈൽ</string>
+
+    <string name="edit_Profile">പ്രൊഫൈൽ എഡിറ്റ് ചെയ്യുക</string>
+    <string name="videos">വീഡിയോകൾ</string>
+    <string name="followers">ഫോളോവേഴ്‌സ്</string>
+    <string name="following">ഫോളോ ചെയ്യുന്നു</string>
+    <string name="search_profiles">പ്രൊഫൈലുകൾ തിരയുക</string>
+    <string name="unfollow">അൺഫോളോ ചെയ്യുക</string>
+    <string name="follow_back">തിരിച്ച് ഫോളോ ചെയ്യുക</string>
+    <string name="remove_from_followers">നീക്കം ചെയ്‌താൽ ഈ വ്യക്തി നിങ്ങളുടെ ഫോളോവേഴ്‌സ് ലിസ്റ്റിൽ നിന്ന് നീക്കപ്പെടും.</string>
+    <string name="unfollow_alert_content">അൺഫോളോ ചെയ്‌താൽ ഈ അക്കൗണ്ടിന്റെ അപ്ഡേറ്റുകൾ കാണാൻ കഴിയില്ല. ഏത് സമയത്തും തിരിച്ച് ഫോളോ ചെയ്യാം.</string>
+
+    <string name="settings">ക്രമീകരണങ്ങൾ</string>
+    <string name="account_settings">അക്കൗണ്ട് ക്രമീകരണങ്ങൾ</string>
+    <string name="my_interests">എന്റെ താൽപ്പര്യങ്ങൾ</string>
+    <string name="saved_business">സേവ് ചെയ്‌ത ബിസിനസുകൾ</string>
+    <string name="share_app">ആപ്പ് പങ്കിടുക</string>
+    <string name="rate_us">ഞങ്ങളെ റേറ്റ് ചെയ്യുക</string>
+    <string name="feedBack">ഫീഡ്‌ബാക്ക്</string>
+    <string name="about_us">ഞങ്ങളെക്കുറിച്ച്</string>
+    <string name="terms_conditions">നിബന്ധനകളും വ്യവസ്ഥകളും</string>
+    <string name="privacy_policy">സ്വകാര്യതാ നയം</string>
+    <string name="contact">ബന്ധപ്പെടുക</string>
+    <string name="share_profile">പ്രൊഫൈൽ പങ്കിടുക</string>
+    <string name="notification">അറിയിപ്പ്</string>
+    <string name="my_blocklist">എന്റെ ബ്ലോക്ക് ലിസ്റ്റ്</string>
+    <string name="delete_account">അക്കൗണ്ട് ഇല്ലാതാക്കുക</string>
+    <string name="logout">ലോഗൗട്ട്</string>
+
+    <string name="allow_notification">അറിയിപ്പ് അനുവദിക്കുക</string>
+    <string name="new_video_posts">പുതിയ വീഡിയോ പോസ്റ്റുകൾ</string>
+
+    <string name="unblock_alert_content">അൺബ്ലോക്ക് ചെയ്‌താൽ നിങ്ങളുടെ പോസ്റ്റുകൾ അവർക്ക് കാണാൻ കഴിയും. അൺബ്ലോക്ക് ചെയ്യണമെന്ന് ഉറപ്പാണോ?</string>
+    <string name="logout_alert_content">നിങ്ങൾ ലോഗൗട്ട് ആകാൻ പോകുകയാണ്. ഏത് സമയത്തും തിരിച്ചു വരാം. ഉടൻ തിരിച്ചു വരൂ!</string>
+    <string name="type_your_bio">നിങ്ങളുടെ ബയോ ടൈപ്പ് ചെയ്യുക...</string>
+    <string name="username_change_error">30 ദിവസത്തിലൊരിക്കൽ മാത്രമേ ഉപയോക്തൃ നാമം മാറ്റാൻ കഴിയൂ</string>
+    <string name="account_deletion_title_description">അക്കൗണ്ട് ഇല്ലാതാക്കൽ ഒരു സ്ഥിരമായ നടപടിയാണ്</string>
+    <string name="account_deletion_option_description">അക്കൗണ്ട് ഇല്ലാതാക്കാനുള്ള പ്രധാന കാരണം തിരഞ്ഞെടുക്കുക</string>
+</resources>

@@ -1,0 +1,275 @@
+<resources>
+    <string name="app_name">SelfEmployment</string>
+
+    <string name="mobile_number">மொபைல் எண்</string>
+    <string name="whatsapp_number">வாட்ஸ்அப் எண்</string>
+    <string name="email_id">மின்னஞ்சல் முகவரி</string>
+    <string name="name">பெயர்</string>
+    <string name="remove">அகற்று</string>
+    <string name="cancel">ரத்து செய்</string>
+    <string name="change">மாற்று</string>
+    <string name="unblock">தடையை நீக்கு</string>
+    <string name="username">பயனர்பெயர்</string>
+    <string name="add_bio">அறிமுகம் சேர்</string>
+    <string name="save_changes">மாற்றங்களை சேமி</string>
+    <string name="same_as_mobile_number">மொபைல் எண்ணைப் போன்றது</string>
+    <string name="enter_mobile_number">மொபைல் எண்ணை உள்ளிடுக</string>
+    <string name="enter_email_id">மின்னஞ்சல் முகவரியை உள்ளிடுக</string>
+
+    <string name="login">உள்நுழை</string>
+    <string name="login_description">மீண்டும் வரவேற்கிறோம்! நீங்கள் இங்கு இருப்பதில் மகிழ்ச்சி.</string>
+    <string name="login_to_register_switch">கணக்கு இல்லையா?</string>
+
+    <string name="register">பதிவு செய்</string>
+    <string name="register_description">இப்போது பதிவு செய்து உங்கள் பயணத்தை தொடங்குங்கள். கணக்கை உருவாக்க விவரங்களை நிரப்புங்கள்.</string>
+    <string name="register_to_login_switch">ஏற்கனவே கணக்கு உள்ளதா?</string>
+
+    <string name="verification">சரிபார்ப்பு</string>
+    <string name="verify">சரிபார்</string>
+    <string name="verification_description">இப்போது பதிவு செய்து உங்கள் பயணத்தை தொடங்குங்கள்.</string>
+    <string name="otp_notReceived">பெறவில்லையா? </string>
+    <string name="resend">மீண்டும் அனுப்பு </string>
+    <string name="otp_error">சரியான OTP ஐ உள்ளிடுக </string>
+
+    <string name="choose_location">மொழியை தேர்வு செய்</string>
+    <string name="search_language">மொழியை தேடு</string>
+    <string name="get_Started">தொடங்கு</string>
+
+    <string name="explore">ஆராய்</string>
+    <string name="upload">பதிவேற்று</string>
+    <string name="profile">சுயவிவரம்</string>
+
+    <string name="edit_Profile">சுயவிவரத்தை திருத்து</string>
+    <string name="videos">வீடியோக்கள்</string>
+    <string name="followers">பின்தொடர்பவர்கள்</string>
+    <string name="following">பின்தொடர்கிறோம்</string>
+    <string name="search_profiles">சுயவிவரங்களை தேடு</string>
+    <string name="unfollow">பின்தொடர்வதை நிறுத்து</string>
+    <string name="follow_back">திரும்ப பின்தொடர்</string>
+    <string name="remove_from_followers">அகற்றுவதால் இந்த நபர் உங்கள் பின்தொடர்பவர் பட்டியலிலிருந்து நீக்கப்படுவார்.</string>
+    <string name="unfollow_alert_content">பின்தொடர்வதை நிறுத்தினால் இந்த கணக்கின் புதுப்பிப்புகளை காண மாட்டீர்கள். எப்போது வேண்டுமானாலும் மீண்டும் பின்தொடரலாம்.</string>
+
+    <string name="settings">அமைப்புகள்</string>
+    <string name="account_settings">கணக்கு அமைப்புகள்</string>
+    <string name="my_interests">என் ஆர்வங்கள்</string>
+    <string name="saved_business">சேமித்த வணிகங்கள்</string>
+    <string name="share_app">செயலியை பகிர்</string>
+    <string name="rate_us">எங்களை மதிப்பிடு</string>
+    <string name="feedBack">கருத்து</string>
+    <string name="about_us">எங்களைப் பற்றி</string>
+    <string name="terms_conditions">விதிமுறைகள் &amp; நிபந்தனைகள்</string>
+    <string name="privacy_policy">தனியுரிமைக் கொள்கை</string>
+    <string name="contact">தொடர்பு</string>
+    <string name="share_profile">சுயவிவரத்தை பகிர்</string>
+    <string name="notification">அறிவிப்பு</string>
+    <string name="my_blocklist">என் தடுப்பு பட்டியல்</string>
+    <string name="delete_account">கணக்கை நீக்கு</string>
+    <string name="logout">வெளியேறு</string>
+
+    <string name="allow_notification">அறிவிப்பை அனுமதி</string>
+    <string name="new_video_posts">புதிய வீடியோ இடுகைகள்</string>
+
+    <string name="unblock_alert_content">தடையை நீக்கிய பிறகு உங்கள் இடுகைகள் அவர்களுக்கு தெரியும். நிச்சயமாக தடையை நீக்க விரும்புகிறீர்களா?</string>
+    <string name="logout_alert_content">நீங்கள் வெளியேற உள்ளீர்கள். எப்போது வேண்டுமானாலும் திரும்பலாம். விரைவில் வாருங்கள்!</string>
+    <string name="type_your_bio">உங்கள் அறிமுகத்தை தட்டச்சு செய்க...</string>
+    <string name="username_change_error">பயனர்பெயரை 30 நாட்களுக்கு ஒருமுறை மட்டுமே மாற்றலாம்</string>
+    <string name="account_deletion_title_description">கணக்கை நீக்குவது நிரந்தரமான செயல்</string>
+    <string name="account_deletion_option_description">கணக்கை நீக்குவதற்கான முக்கிய காரணத்தை தேர்வு செய்க</string>
+
+
+
+    <!-- Phase 2 -->
+
+    <string name="business">வணிகம்</string>
+    <string name="search_business">வணிகம் தேடுக..</string>
+    <string name="recent_search">சமீபத்திய தேடல்</string>
+    <string name="popular_videos">பிரபலமான வீடியோக்கள்</string>
+    <string name="related_videos">தொடர்புடைய வீடியோக்கள்</string>
+    <string name="all_categories">அனைத்து வகைகளும்</string>
+    <string name="share_video">வீடியோவை பகிர்</string>
+    <string name="not_interested">ஆர்வமில்லை</string>
+    <string name="report">புகாரளி</string>
+    <string name="why_are_you_reporting">நீங்கள் ஏன் புகாரளிக்கிறீர்கள்?</string>
+    <string name="inappropriate_content">பொருத்தமற்ற உள்ளடக்கம்</string>
+    <string name="spam_irrelevant_content">ஸ்பேம் அல்லது தொடர்பில்லாத உள்ளடக்கம்</string>
+    <string name="copyright_infringement">பதிப்புரிமை மீறல்</string>
+    <string name="technical_issues">தொழில்நுட்ப சிக்கல்கள் அல்லது பிழைகள்</string>
+    <string name="privacy_violation">தனியுரிமை மீறல்</string>
+    <string name="cultural_insensitivity">கலாச்சார உணர்வின்மை</string>
+    <string name="something_else">வேறு ஏதாவது</string>
+    <string name="submit_report">புகாரை சமர்ப்பி</string>
+
+
+    <!-- Phase 3 -->
+
+    <string name="articles">கட்டுரைகள்</string>
+    <string name="messages">செய்திகள்</string>
+
+    <string name="translate">மொழிபெயர்க்க</string>
+    <string name="show_translation">மொழிபெயர்ப்பைக் காட்டு</string>
+    <string name="view_business_details">வணிக விவரங்களைப் பார்க்க</string>
+
+    <string name="save">சேமி</string>
+    <string name="audio">ஆடியோ</string>
+
+    <string name="next">அடுத்து</string>
+
+    <string name="upload_proof">சான்று பதிவேற்றவும்</string>
+    <string name="optional">விருப்பத்தேர்வு</string>
+    <string name="click_to_upload">பதிவேற்ற கிளிக் செய்யவும்</string>
+
+    <string name="preview">முன்னோட்டம்</string>
+
+    <string name="search_results">தேடல் முடிவுகள்</string>
+    <string name="clear_all">அனைத்தையும் அழி</string>
+
+    <string name="most_popular">மிகவும் பிரபலமானது</string>
+
+    <string name="type_comment_here">இங்கே கருத்து தட்டச்சு செய்யவும் ...</string>
+    <string name="reply">பதில் சொல்</string>
+
+    <string name="block">தடு</string>
+
+    <string name="upload_video">வீடியோவை பதிவேற்றவும்</string>
+    <string name="category">வகை</string>
+    <string name="language">மொழி</string>
+    <string name="language_sub_header">உங்கள் வீடியோவை பார்வையாளர்கள் புரிந்துகொள்ளவும் கண்டுபிடிக்கவும் உதவ, உங்கள் வீடியோவில் பேசப்படும் மொழியைத் தேர்ந்தெடுக்கவும்.</string>
+    <string name="title">தலைப்பு</string>
+    <string name="short_description">சுருக்கமான விளக்கம்</string>
+    <string name="long_description">விரிவான விளக்கம்</string>
+    <string name="specific_category">குறிப்பிட்ட வகை</string>
+
+    <string name="post_now">இப்போது பதிவிடு</string>
+    <string name="exit_loading_alert_heading">நீங்கள் பதிவேற்றத்திலிருந்து வெளியேற விரும்புகிறீர்களா?</string>
+    <string name="exit_loading_alert_sub_heading">நீங்கள் இப்போது வெளியேறினால், உங்கள் பதிவேற்றம் ரத்து செய்யப்படும் மற்றும் உள்ளிட்ட அனைத்து விவரங்களும் இழக்கப்படும்.</string>
+    <string name="keep_uploading">பதிவேற்றத்தை தொடர்க</string>
+    <string name="exit">வெளியேறு</string>
+
+    <string name="edit">திருத்து</string>
+    <string name="delete_post">பதிவை நீக்கு</string>
+
+    <string name="update_changes">மாற்றங்களை புதுப்பி</string>
+
+    <string name="upload_images">புகைப்படங்களை பதிவேற்றவும்</string>
+
+    <string name="leave_without_saving_alert_header">சேமிக்காமல் வெளியேறவா?</string>
+    <string name="leave_without_saving_alert_sub_header">உங்கள் மாற்றங்கள் சேமிக்கப்படவில்லை. நீங்கள் இப்போது வெளியேறினால், அவை இழக்கப்படும்.</string>
+
+    <string name="skip">தவிர்</string>
+    <string name="discard_changes">மாற்றங்களை நிராகரி</string>
+
+    <string name="delete_post_alert_header">இந்த பதிவை நீக்க விரும்புகிறீர்களா?</string>
+    <string name="delete_post_alert_sub_header">இந்த செயல் வீடியோவை நிரந்தரமாக நீக்கும். நீங்கள் அதை மீட்டெடுக்க முடியாது.</string>
+
+    <string name="characters">எழுத்துகள்</string>
+
+    <string name="number_change_verify_header">உங்கள் உள்ளிட்ட மொபைல் எண்ணுக்கு அனுப்பப்பட்ட OTP-ஐ உள்ளிடவும்</string>
+
+    <string name="reset_changes">மாற்றங்களை மீட்டமை</string>
+    <string name="save_interests">ஆர்வங்களை சேமி</string>
+
+    <string name="rate_us_1_star">அரே! என்ன வேலை செய்யவில்லை</string>
+    <string name="rate_us_2_star">சிறப்பாக இல்லையா? ஏன் என்று சொல்லுங்கள்</string>
+    <string name="rate_us_3_star">கிட்டத்தட்ட வந்துவிட்டோம்!</string>
+    <string name="rate_us_4_star">நாம் 5-க்கு அருகில் இருக்கிறோம்!</string>
+    <string name="rate_us_5_star">நீங்கள் விரும்பியதில் மகிழ்ச்சி!</string>
+
+    <string name="delete_account_alert_header">உங்கள் கணக்கை நிரந்தரமாக நீக்க விரும்புகிறீர்களா?</string>
+    <string name="delete_account_alert_sub_header">உங்கள் கணக்கு 30 நாட்களுக்குப் பிறகு நீக்கப்படும். இந்த காலகட்டத்தில் நீங்கள் உள்நுழையவில்லை என்றால், உங்கள் அனைத்து தகவல்களும் நிரந்தரமாக அகற்றப்படும் மற்றும் மீட்டெடுக்க முடியாது.</string>
+    <string name="delete_account_confirm_checkbox_header">ஆம், என் கணக்கை நிரந்தரமாக நீக்க விரும்புகிறேன்</string>
+
+    <string name="all">அனைத்தும்</string>
+    <string name="likes">விருப்பங்கள்</string>
+    <string name="comments">கருத்துகள்</string>
+
+    <string name="today">இன்று</string>
+    <string name="yesterday">நேற்று</string>
+    <string name="other_days">மற்ற நாட்கள்</string>
+
+    <string name="account_appeal">கணக்கு தடைசெய்யப்பட்டது</string>
+    <string name="account_appeal_button">மேல்முறையீடு செய்</string>
+    <string name="account_appeal_header">எங்கள் சமூக தரநிலைகளை மீறியதற்காக உங்கள் கணக்கு பல முறை புகாரளிக்கப்பட்டுள்ளது. உங்கள் கணக்கு தற்காலிகமாக தடைசெய்யப்பட்டுள்ளது. இது தவறு என்று நீங்கள் நம்பினால் இந்த முடிவுக்கு மேல்முறையீடு செய்யலாம்.</string>
+
+    <string name="report_comment">கருத்தை புகாரளி</string>
+
+    <string name="chat_empty_header">அரட்டை புதியதாக உள்ளது!</string>
+    <string name="chat_empty_sub_header">எப்போது வேண்டுமானாலும் புதிய உரையாடலை தொடங்குங்கள்!</string>
+    <string name="clear_chat">அரட்டையை அழி</string>
+    <string name="delete_for_me">என்னிடமிருந்து நீக்கு</string>
+    <string name="delete_for_everyone">அனைவரிடமிருந்தும் நீக்கு</string>
+    <string name="received">பெறப்பட்டது</string>
+    <string name="sent">அனுப்பப்பட்டது</string>
+    <string name="view_message">செய்திகளை பார்க்க</string>
+
+    <string name="view_more">மேலும் பார்க்க</string>
+    <string name="view_less">குறைவாக பார்க்க</string>
+
+    <string name="home">முகப்பு</string>
+
+    <string name="app_language">பயன்பாட்டு மொழி</string>
+
+    <string name="share">பகிர்</string>
+
+    <string name="enter_name">பெயரை உள்ளிடவும்</string>
+
+    <string name="youtube_video">யூட்யூப் வீடியோ</string>
+
+
+    <string name="add_youtube_link">யூட்யூப் லிங்கை சேர்க்கவும்</string>
+    <string name="upload_youtube_video">யூட்யூப் வீடியோவை பதிவேற்றவும்</string>
+
+    <string name="enter_bio">அறிமுகம் உள்ளிடவும்</string>
+    <string name="follow">பின்தொடர்</string>
+    <string name="submit">சமர்ப்பி</string>
+    <string name="re_trim">மீண்டும் ட்ரிம் செய்</string>
+    <string name="what_else_to_know">வேறு என்ன தெரிந்துகொள்ள வேண்டும்...</string>
+    <string name="follows">பின்தொடர்கிறார்கள்</string>
+
+
+    <string name="give_a_title">ஒரு தலைப்பு கொடுங்கள்.</string>
+    <string name="start_typing_here">இங்கே தட்டச்சு செய்யத் தொடங்குங்கள்</string>
+
+
+    <string name="select_language">மொழியை தேர்ந்தெடுக்கவும்</string>
+
+    <string name="select_category">வகையை தேர்ந்தெடுக்கவும்</string>
+
+
+    <!-- Phase 4 -->
+    <string name="number_changes_successfully">எண் வெற்றிகரமாக மாற்றப்பட்டது</string>
+
+    <string name="noInternet">அடடா! நீங்கள் ஆஃப்லைனில் இருக்கிறீர்கள்.</string>
+
+    <string name="user_unfollowed_successfully">பயனரை பின்தொடர்வது நிறுத்தப்பட்டது</string>
+
+    <string name="username_updated_successfully">பயனர் பெயர் வெற்றிகரமாக புதுப்பிக்கப்பட்டது</string>
+
+    <string name="apiError">மன்னிக்கவும்! ஏதோ தவறு நடந்தது.</string>
+
+    <string name="preferences_saved_successfully">விருப்பத்தேர்வுகள் வெற்றிகரமாக சேமிக்கப்பட்டன</string>
+
+    <string name="no_changes_to_save">சேமிக்க எந்த மாற்றமும் இல்லை</string>
+
+
+    <string name="waiting_for_link">உங்கள் லிங்குக்காக காத்திருக்கிறோம்...</string>
+
+
+    <string name="paste_youtube_link">யூட்யூப் லிங்கை ஒட்டவும்</string>
+
+    <string name="images">படங்கள்</string>
+
+    <string name="enter_your_category">உங்கள் வகையை உள்ளிடவும்</string>
+
+
+
+    <!-- Phase 5 -->
+
+    <string name="comment_deleted_successfully">கருத்து வெற்றிகரமாக நீக்கப்பட்டது</string>
+
+    <string name="already_reported">ஏற்கனவே புகாரளிக்கப்பட்டது</string>
+
+    <string name="no_comments_yet">இதுவரை கருத்துகள் இல்லை</string>
+
+    <string name="be_first_to_comment_order">இந்த ஆர்டரில் உங்கள் கருத்தைப் பகிரும் முதல் நபராக இருங்கள்.</string>
+
+</resources>

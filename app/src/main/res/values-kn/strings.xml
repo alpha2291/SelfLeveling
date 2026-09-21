@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">SelfEmployment</string>
+
+    <string name="mobile_number">ಮೊಬೈಲ್ ಸಂಖ್ಯೆ</string>
+    <string name="whatsapp_number">ವಾಟ್ಸ್‌ಆಪ್ ಸಂಖ್ಯೆ</string>
+    <string name="email_id">ಇಮೇಲ್ ID</string>
+    <string name="name">ಹೆಸರು</string>
+    <string name="remove">ತೆಗೆದುಹಾಕಿ</string>
+    <string name="cancel">ರದ್ದುಮಾಡಿ</string>
+    <string name="change">ಬದಲಾಯಿಸಿ</string>
+    <string name="unblock">ಅನ್‌ಬ್ಲಾಕ್ ಮಾಡಿ</string>
+    <string name="username">ಬಳಕೆದಾರ ಹೆಸರು</string>
+    <string name="add_bio">ಬಯೋ ಸೇರಿಸಿ</string>
+    <string name="save_changes">ಬದಲಾವಣೆಗಳನ್ನು ಉಳಿಸಿ</string>
+    <string name="same_as_mobile_number">ಮೊಬೈಲ್ ಸಂಖ್ಯೆಯಂತೆಯೇ</string>
+    <string name="enter_mobile_number">ಮೊಬೈಲ್ ಸಂಖ್ಯೆ ನಮೂದಿಸಿ</string>
+    <string name="enter_email_id">ಇಮೇಲ್ ವಿಳಾಸ ನಮೂದಿಸಿ</string>
+    <string name="likes">ಲೈಕ್‌ಗಳು</string>
+    <string name="comments">ಕಾಮೆಂಟ್‌ಗಳು</string>
+
+    <string name="login">ಲಾಗಿನ್</string>
+    <string name="login_description">ಮತ್ತೆ ಸ್ವಾಗತ! ನೀವು ಇಲ್ಲಿರುವುದಕ್ಕೆ ಸಂತೋಷ.</string>
+    <string name="login_to_register_switch">ಖಾತೆ ಇಲ್ಲವೇ?</string>
+
+    <string name="register">ನೋಂದಾಯಿಸಿ</string>
+    <string name="register_description">ಈಗ ನೋಂದಾಯಿಸಿ ನಿಮ್ಮ ಪ್ರಯಾಣ ಪ್ರಾರಂಭಿಸಿ. ಖಾತೆ ರಚಿಸಲು ವಿವರಗಳನ್ನು ತುಂಬಿ.</string>
+    <string name="register_to_login_switch">ಈಗಾಗಲೇ ಖಾತೆ ಇದೆಯೇ?</string>
+
+    <string name="verification">ಪರಿಶೀಲನೆ</string>
+    <string name="verify">ಪರಿಶೀಲಿಸಿ</string>
+    <string name="verification_description">ಈಗ ನೋಂದಾಯಿಸಿ ನಿಮ್ಮ ಪ್ರಯಾಣ ಪ್ರಾರಂಭಿಸಿ.</string>
+    <string name="otp_notReceived">ಸ್ವೀಕರಿಸಲಿಲ್ಲವೇ? </string>
+    <string name="resend">ಮತ್ತೆ ಕಳುಹಿಸಿ </string>
+    <string name="otp_error">ದಯವಿಟ್ಟು ಮಾನ್ಯ OTP ನಮೂದಿಸಿ </string>
+
+    <string name="choose_location">ಭಾಷೆ ಆಯ್ಕೆ ಮಾಡಿ</string>
+    <string name="search_language">ಭಾಷೆ ಹುಡುಕಿ</string>
+    <string name="get_Started">ಪ್ರಾರಂಭಿಸಿ</string>
+
+    <string name="explore">ಅನ್ವೇಷಿಸಿ</string>
+    <string name="upload">ಅಪ್‌ಲೋಡ್</string>
+    <string name="profile">ಪ್ರೊಫೈಲ್</string>
+
+    <string name="edit_Profile">ಪ್ರೊಫೈಲ್ ಸಂಪಾದಿಸಿ</string>
+    <string name="videos">ವೀಡಿಯೊಗಳು</string>
+    <string name="followers">ಅನುಸರಿಸುವವರು</string>
+    <string name="following">ಅನುಸರಿಸುತ್ತಿದ್ದೇವೆ</string>
+    <string name="search_profiles">ಪ್ರೊಫೈಲ್‌ಗಳನ್ನು ಹುಡುಕಿ</string>
+    <string name="unfollow">ಅನ್‌ಫಾಲೋ ಮಾಡಿ</string>
+    <string name="follow_back">ಮತ್ತೆ ಅನುಸರಿಸಿ</string>
+    <string name="remove_from_followers">ತೆಗೆದುಹಾಕಿದರೆ ಈ ವ್ಯಕ್ತಿ ನಿಮ್ಮ ಅನುಸರಿಸುವವರ ಪಟ್ಟಿಯಿಂದ ತೆಗೆದುಹಾಕಲ್ಪಡುತ್ತಾರೆ.</string>
+    <string name="unfollow_alert_content">ಅನ್‌ಫಾಲೋ ಮಾಡಿದ ನಂತರ ನೀವು ಈ ಖಾತೆಯ ನವೀಕರಣಗಳನ್ನು ನೋಡಲಾಗುವುದಿಲ್ಲ. ನೀವು ಯಾವಾಗಲಾದರೂ ಮತ್ತೆ ಅನುಸರಿಸಬಹುದು.</string>
+
+    <string name="settings">ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+    <string name="account_settings">ಖಾತೆ ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+    <string name="my_interests">ನನ್ನ ಆಸಕ್ತಿಗಳು</string>
+    <string name="saved_business">ಉಳಿಸಿದ ವ್ಯವಹಾರಗಳು</string>
+    <string name="share_app">ಆಪ್ ಹಂಚಿಕೊಳ್ಳಿ</string>
+    <string name="rate_us">ನಮಗೆ ರೇಟಿಂಗ್ ನೀಡಿ</string>
+    <string name="feedBack">ಪ್ರತಿಕ್ರಿಯೆ</string>
+    <string name="about_us">ನಮ್ಮ ಬಗ್ಗೆ</string>
+    <string name="terms_conditions">ನಿಯಮಗಳು &amp; ಷರತ್ತುಗಳು</string>
+    <string name="privacy_policy">ಗೌಪ್ಯತಾ ನೀತಿ</string>
+    <string name="contact">ಸಂಪರ್ಕಿಸಿ</string>
+    <string name="share_profile">ಪ್ರೊಫೈಲ್ ಹಂಚಿಕೊಳ್ಳಿ</string>
+    <string name="notification">ಅಧಿಸೂಚನೆ</string>
+    <string name="my_blocklist">ನನ್ನ ಬ್ಲಾಕ್ ಪಟ್ಟಿ</string>
+    <string name="delete_account">ಖಾತೆ ಅಳಿಸಿ</string>
+    <string name="logout">ಲಾಗ್‌ಔಟ್</string>
+
+    <string name="allow_notification">ಅಧಿಸೂಚನೆ ಅನುಮತಿಸಿ</string>
+    <string name="new_video_posts">ಹೊಸ ವೀಡಿಯೊ ಪೋಸ್ಟ್‌ಗಳು</string>
+
+    <string name="unblock_alert_content">ಅನ್‌ಬ್ಲಾಕ್ ಮಾಡಿದ ನಂತರ ನಿಮ್ಮ ಪೋಸ್ಟ್‌ಗಳು ಅವರಿಗೆ ಗೋಚರಿಸುತ್ತವೆ. ನೀವು ಖಂಡಿತವಾಗಿಯೂ ಅನ್‌ಬ್ಲಾಕ್ ಮಾಡಲು ಬಯಸುವಿರಾ?</string>
+    <string name="logout_alert_content">ನೀವು ಲಾಗ್‌ಔಟ್ ಆಗಲಿರುವಿರಿ. ನೀವು ಯಾವಾಗಲಾದರೂ ಹಿಂತಿರುಗಬಹುದು. ಶೀಘ್ರದಲ್ಲೇ ಹಿಂತಿರುಗಿ!</string>
+    <string name="type_your_bio">ನಿಮ್ಮ ಬಯೋ ಟೈಪ್ ಮಾಡಿ...</string>
+    <string name="username_change_error">ನೀವು ಬಳಕೆದಾರ ಹೆಸರನ್ನು ಕೇವಲ 30 ದಿನಗಳಿಗೊಮ್ಮೆ ಮಾತ್ರ ಬದಲಾಯಿಸಬಹುದು</string>
+    <string name="account_deletion_title_description">ಖಾತೆ ಅಳಿಸುವಿಕೆ ಶಾಶ್ವತ ಕ್ರಿಯೆ</string>
+    <string name="account_deletion_option_description">ದಯವಿಟ್ಟು ಖಾತೆ ಅಳಿಸಲು ಮುಖ್ಯ ಕಾರಣ ಆಯ್ಕೆ ಮಾಡಿ</string>
+</resources>
