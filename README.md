@@ -12,6 +12,13 @@ An Android app connecting self-employed professionals and gig workers with clien
 - **Local storage:** DataStore Preferences
 - **Localization:** Google Cloud Translation API integration
 
+
+
+
+https://github.com/user-attachments/assets/31a847ba-4791-4486-b287-aff3971493f6
+
+
+
 ## Setup
 
 ### 1. Firebase
